@@ -1,0 +1,22 @@
+{
+  "name": "bootcampbarber",
+  "version": "1.0.0",
+  "description": "Curso de node.Js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelDeMello/BootCampBarber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelDeMello/BootCampBarber/issues"
+  },
+  "homepage": "https://github.com/RafaelDeMello/BootCampBarber#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
